@@ -1,31 +1,10 @@
 
 
- <p>
-Template de site para PetShop usando HTML, CSS & JavaScript.
- </p>
+
+ ## Template de site para PetShop usando HTML, CSS & JavaScript.
 
 
-## Requisitos:
 
-- NodeJS
-- NPM
-
-## Clonar o repositório
-```bash
-$ git clone https://github.com/VitoriaFelix/agendamentoBarbearia.git
-```
-## Ir para o repositório
-```bash
-$ cd agendamentoBarbearia/app
-```
-
-## Instalar dependências
-```bash
-npm install
-```
-
-## Execute o aplicativo (Android)
-```bash
-$ npx react-native run-android
-```
----
+<p align="center">
+  <img alt="Funcionamento da aplicação" src="https://github.com/VitoriaFelix/listaTarefas/blob/main/assets/gif.gif" width="100%" height="20%">
+</p>
