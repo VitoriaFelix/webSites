@@ -1,7 +1,7 @@
 
 
  <p>
- Aplicativo de agendamento de barbeiros usando React Native.
+Template de site para PetShop usando HTML, CSS & JavaScript.
  </p>
 
 
